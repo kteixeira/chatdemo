@@ -1,2 +1,2 @@
 # chatdemo
-Test socket io chat
+Test socket.io with chat
